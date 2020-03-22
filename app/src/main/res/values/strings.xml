@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TouchGiftBox</string>
+
+    <string name="ad_mob_id">ca-app-pub-7991644980520013~7426039931</string>
+    <string name="ad_mob_unit_id">ca-app-pub-7991644980520013/9970450408</string>
+    <string name="ad_mob_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

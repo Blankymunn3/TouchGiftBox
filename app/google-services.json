@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028193137520",
+    "firebase_url": "https://billion-gift-box.firebaseio.com",
+    "project_id": "billion-gift-box",
+    "storage_bucket": "billion-gift-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028193137520:android:5b58430dfe273b0cc8d5b5",
+        "android_client_info": {
+          "package_name": "io.touchgiftbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028193137520-rvuo1e5e3t43m8n6b2m3gb2fd8oh9j70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6-fH-CrL6C_sS9zH7vfi-Fh17v0GPvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028193137520-rvuo1e5e3t43m8n6b2m3gb2fd8oh9j70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
