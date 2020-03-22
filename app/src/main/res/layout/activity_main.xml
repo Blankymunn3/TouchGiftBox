@@ -18,7 +18,7 @@
             android:id="@+id/txt_count_touch"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="1000000000"
+            android:text="@string/str_billion"
             android:textSize="30sp"
             android:textColor="#222222"
             android:layout_marginTop="20dp"
