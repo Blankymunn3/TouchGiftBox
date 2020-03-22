@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">TouchGiftBox</string>
+    <string name="app_name">빌리언선물상자</string>
 
     <string name="ad_mob_id">ca-app-pub-7991644980520013~7426039931</string>
     <string name="ad_mob_unit_id">ca-app-pub-7991644980520013/9970450408</string>
+    <string name="ad_mob_exit_id">ca-app-pub-7991644980520013/1550627229</string>
+
     <string name="ad_mob_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_mob_exit_id_normal_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_mob_exit_id_video_test">ca-app-pub-3940256099942544/8691691433</string>
+
+    <string name="str_billion">1000000000</string>
 </resources>
